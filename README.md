@@ -3,10 +3,9 @@
 # 🍽️ Modern Restaurant & Café Web Application Template
 ### *A High-Converting, Production-Ready Restaurant Website with 3D Flipbook Menu & Scroll-Linked Motion*
 
-[![GitHub Stars](https://img.shields.io/github/stars/santoshjena6/kadappa-cafe?style=for-the-badge&logo=github&color=ffb400&logoColor=white)](https://github.com/santoshjena6/kadappa-cafe/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/santoshjena6/kadappa-cafe?style=for-the-badge&logo=github&color=11421b&logoColor=white)](https://github.com/santoshjena6/kadappa-cafe/network/members)
-[![Follow @santoshjena6](https://img.shields.io/github/followers/santoshjena6?label=Follow%20%40santoshjena6&style=for-the-badge&logo=github&color=ffb400&logoColor=white)](https://github.com/santoshjena6)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
+[![GitHub Stars](https://img.shields.io/github/stars/vkode-solution-git/enveroo-cafe-website?style=for-the-badge&logo=github&color=ffb400&logoColor=white)](https://github.com/vkode-solution-git/enveroo-cafe-website/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/vkode-solution-git/enveroo-cafe-website?style=for-the-badge&logo=github&color=11421b&logoColor=white)](https://github.com/vkode-solution-git/enveroo-cafe-website/network/members)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-ENVEROO-181717?style=for-the-badge&logo=github)](https://github.com/vkode-solution-git)
 [![React 19](https://img.shields.io/badge/React-19.2-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8.3-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
 
@@ -32,12 +31,12 @@
 > ### 🌟 Support The Developer & Stay Tuned For Upcoming Projects!
 > If you are using this code for your restaurant, client projects, or learning:
 > 1. ⭐ **Star this repository** to help other developers and restaurant owners discover it.
-> 2. 👤 **Follow [@santoshjena6](https://github.com/santoshjena6) on GitHub** to get notified about upcoming open-source releases:
+> 2. 👤 **Follow [ENVEROO AI AND SOFTWARE SOLUTION](https://github.com/vkode-solution-git) on GitHub** for project updates:
 >    - 🛒 **Full-Stack Restaurant POS & Online Ordering System** (Cart + Payment Gateway)
 >    - 📱 **Mobile-First Food Ordering App UI**
 >    - ☁️ **AWS Serverless Table Booking Backend** (AWS Lambda, DynamoDB & SES Email Confirmations)
 >
-> 👉 **[Click here to follow @santoshjena6 on GitHub](https://github.com/santoshjena6)** 👈
+> 👉 **[Visit ENVEROO on GitHub](https://github.com/vkode-solution-git)** 👈
 
 ---
 
@@ -80,8 +79,8 @@ This repository provides an **ultra-modern, highly aesthetic web application** f
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/santoshjena6/kadappa-cafe.git
-cd kadappa-cafe
+git clone https://github.com/vkode-solution-git/enveroo-cafe-website.git
+cd enveroo-cafe-website
 ```
 
 ### 2. Install dependencies
@@ -163,7 +162,7 @@ const handleSubmit = async (e) => {
 ## 📂 Project Structure
 
 ```text
-kadappa-cafe/
+enveroo-cafe-website/
 ├── public/
 │   ├── Menu/                  # Flipbook menu page scans (1.png - 5.png)
 │   ├── logo.png               # Restaurant brand logo
@@ -211,7 +210,7 @@ We are actively working on expanding this project into a full restaurant ecosyst
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/santoshjena6/kadappa-cafe/issues).
+Feel free to check the [issues page](https://github.com/santoshjena6/enveroo-cafe-website/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
@@ -226,19 +225,21 @@ Feel free to check the [issues page](https://github.com/santoshjena6/kadappa-caf
 If this project saved you time or helped you build something awesome:
 
 - ⭐️ **Give this project a Star on GitHub!**
-- 👤 **Follow [@santoshjena6](https://github.com/santoshjena6)** on GitHub to get instant updates on upcoming open-source restaurant templates, UI libraries, and full-stack solutions!
+- 👤 **Follow [ENVEROO AI AND SOFTWARE SOLUTION](https://github.com/vkode-solution-git)** on GitHub for project updates.
 - 💬 **Share feedback** or tag us on your restaurant's live site!
 
 ---
 
 ## 👨‍💻 Author
 
-**Santosh Jena**
-- GitHub: [@santoshjena6](https://github.com/santoshjena6)
-- Email: santoshjena7991@gmail.com
+**ENVEROO AI AND SOFTWARE SOLUTION**
+- GitHub: [vkode-solution-git](https://github.com/vkode-solution-git)
+- Email: info@enveroo.com
+
+**Original template attribution:** The base template was originally created by Santosh Jena.
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** - you are free to use it for personal, commercial, and client restaurant projects!
+The original README referenced the MIT License, but this repository currently has no `LICENSE` file. Confirm the applicable license and permissions before redistributing or using the original template commercially. Do not treat this README as a license grant.
