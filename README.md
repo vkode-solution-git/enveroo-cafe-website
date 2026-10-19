@@ -210,7 +210,7 @@ We are actively working on expanding this project into a full restaurant ecosyst
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/santoshjena6/enveroo-cafe-website/issues).
+Feel free to check the [issues page](https://github.com/vkode-solution-git/enveroo-cafe-website/issues).
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
