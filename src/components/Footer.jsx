@@ -163,6 +163,10 @@ const Footer = () => {
         </div>
 
       </div>
+
+      <div style={{ textAlign: 'center', marginTop: '24px', fontSize: '12px', color: '#A0B3A6', letterSpacing: '0.04em' }}>
+        Designed &amp; Developed by <a href="https://github.com/vkode-solution-git" target="_blank" rel="noreferrer" style={{ color: 'var(--color-tiger-gold)', textDecoration: 'none', fontWeight: 600 }}>ENVEROO AI AND SOFTWARE SOLUTION</a>
+      </div>
     </footer>
   );
 };
